@@ -6,10 +6,11 @@ I've just started on my journey towards becoming a front-end developer, and I'm 
 * HTML, CSS and vanilla Javascript
 
 💬 I'm passionate about ...
-* Improving access to tech careers
-* Workers' and producers' [co-ops](https://www.uk.coop/)
-* Non-profits, and social enterprises
+* Improving access to tech careers :fist: 
+* Workers' and producers' [co-ops](https://www.uk.coop/) :honeybee: 
+* Non-profits, and social enterprises :green_heart:
 
 😄 Pronouns: they/them
+
 ⚡ Fun fact: I started learning to rollerblade 6 months ago, and now I'm a little obsessed!
 
