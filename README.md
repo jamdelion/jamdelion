@@ -12,5 +12,5 @@ I've just started on my journey towards becoming a front-end developer, and I'm 
 
 😄 Pronouns: they/them
 
-⚡ Fun fact: I started learning to rollerblade 6 months ago, and now I'm a little obsessed!
+⚡ Fun fact: I started learning to rollerblade over lockdown in summer 2020, and now I'm a little obsessed!
 
