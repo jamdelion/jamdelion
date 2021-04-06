@@ -1,5 +1,7 @@
 ### Hello! 👋 I'm Jo.
 
+😄 Pronouns: they/them
+
 I've just started on my journey towards becoming a front-end developer, and I'm learning with a bunch of fantastic people on a London-based peer-based course by the educational non-profit, [Founders and Coders](https://www.foundersandcoders.com). 
 
 🌱 I’m currently learning ...
@@ -10,7 +12,7 @@ I've just started on my journey towards becoming a front-end developer, and I'm 
 * Workers' and producers' [co-ops](https://www.uk.coop/) :honeybee: 
 * Non-profits, and social enterprises :green_heart:
 
-😄 Pronouns: they/them
+✏️ I write a blog at [jo.hashnode.dev](jo.hashnode.dev).
 
 ⚡ Fun fact: I started learning to rollerblade over lockdown in summer 2020, and now I'm a little obsessed!
 
