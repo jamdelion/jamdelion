@@ -14,5 +14,5 @@ I've just started on my journey towards becoming a front-end developer, and I'm 
 
 ✏️ I write a blog at [jo.hashnode.dev](jo.hashnode.dev).
 
-⚡ Fun fact: I started learning to rollerblade over lockdown in summer 2020, and now I'm a little obsessed!
+⚡ Fun fact: I started learning to rollerblade over lockdown in summer 2020. When I'm not coding, you can probably find me flailing on ramps at one of the local skateparks! 😅
 
