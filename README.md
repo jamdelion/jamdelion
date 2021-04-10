@@ -1,5 +1,5 @@
 ### Hello! 👋 I'm Jo. 
-*[click to hear my name](nmdrp.me/johumphrey)* 👂
+*[click to hear my name](https://nmdrp.me/johumphrey)* 👂
 
 😄 **Pronouns**: they/them
 
