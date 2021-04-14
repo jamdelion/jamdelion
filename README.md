@@ -13,7 +13,7 @@ I've just started on my journey towards becoming a front-end developer, and I'm 
 * Workers' and producers' [co-ops](https://www.uk.coop/) :honeybee: 
 * Non-profits, and social enterprises :green_heart:
 
-✏️ I've just started writing a blog at [jo.hashnode.dev](jo.hashnode.dev).
+✏️ I've just started writing a blog at [jo.hashnode.dev](https://jo.hashnode.dev).
 
 ⚡ **Fun fact**: I started learning to rollerblade over lockdown in summer 2020. When I'm not coding, you can probably find me flailing on ramps at one of the local skateparks! 😅
 
