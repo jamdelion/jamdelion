@@ -3,10 +3,10 @@
 
 😄 **Pronouns**: they/them
 
-I've just started on my journey towards becoming a front-end developer, and I'm learning with a bunch of fantastic people (![@fac21](@www.github.com/fac21)) on a London-based peer-based course by the educational non-profit, [Founders and Coders](https://www.foundersandcoders.com). 
+I've just started on my journey towards becoming a front-end developer, and I'm learning with a bunch of fantastic people (![@fac21](@www.github.com/fac21)) on a London-based peer-based course by the educational non-profit, [Founders and Coders](https://www.foundersandcoders.com). Check out our projects at ![https://fac21.github.io/projects-gallery/](https://fac21.github.io/projects-gallery/).
 
 🌱 **I’m currently learning** ...
-* HTML, CSS and Javascript
+* Node.js, Express.js and PostgreSQL
 
 💬 **I'm passionate about** ...
 * Improving access to tech careers :fist: 
