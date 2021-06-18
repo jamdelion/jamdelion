@@ -46,18 +46,14 @@ Check out our projects at ![https://fac21.github.io/projects-gallery/](https://f
 
 </td></tr></table>  
 
-<br/>  
-
+<!-- <br/>   -->
 <div align="center">
-  
-🧪 ![Cypress](https://img.shields.io/badge/-Cypress-1572B6?style=flat&logo=cypress&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)
-![Robot](https://img.shields.io/badge/-RobotFramework-1572B6?style=flat&logo=robotframework&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)
-🚀
-![Netlify](https://img.shields.io/badge/-Netlify-1572B6?style=flat&logo=netlify&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)
-![Heroku](https://img.shields.io/badge/-Heroku-1572B6?style=flat&logo=heroku&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)
-![Vercel](https://img.shields.io/badge/-Vercel-1572B6?style=flat&logo=cercel&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)  🛠️ ![Drupal](https://img.shields.io/badge/-Drupal-1572B6?style=flat&logo=drupal&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)
-![vite](https://img.shields.io/badge/-Vite-1572B6?style=flat&logo=vite&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)
-![VS Code](https://img.shields.io/badge/-VSCode-1572B6?style=flat&logo=visualstudiocode&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)
+<!-- #### Additionally... -->
+
+### 🧪 ![Cypress](https://img.shields.io/badge/-Cypress-1572B6?style=flat&logo=cypress&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet) ![Robot](https://img.shields.io/badge/-RobotFramework-1572B6?style=flat&logo=robotframework&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)
+
+ ### 🚀 ![Netlify](https://img.shields.io/badge/-Netlify-1572B6?style=flat&logo=netlify&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet) ![Heroku](https://img.shields.io/badge/-Heroku-1572B6?style=flat&logo=heroku&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet) ![Vercel](https://img.shields.io/badge/-Vercel-1572B6?style=flat&logo=cercel&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)  
+ ### 🛠️ ![Drupal](https://img.shields.io/badge/-Drupal-1572B6?style=flat&logo=drupal&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet) ![vite](https://img.shields.io/badge/-Vite-1572B6?style=flat&logo=vite&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet) ![VS Code](https://img.shields.io/badge/-VSCode-1572B6?style=flat&logo=visualstudiocode&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)
 
 </div>
 
