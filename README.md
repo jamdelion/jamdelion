@@ -6,7 +6,7 @@
   - *[click to hear my name](https://nmdrp.me/johumphrey)* 👂
 
 
-I graduated from [Founders and Coders](https://www.foundersandcoders.com) in June 2021, after starting my journey towards becoming a front-end developer with a bunch of fantastic people (![@fac21](@www.github.com/fac21)) on the London-based peer-based course. 
+I graduated from [Founders and Coders](https://www.foundersandcoders.com) in June 2021, after starting my journey towards becoming a full-stack developer with a bunch of fantastic people (![@fac21](@www.github.com/fac21)) on the London-based peer-based course. 
 
 Check out our projects at ![https://fac21.github.io/projects-gallery/](https://fac21.github.io/projects-gallery/). 🌟
 
