@@ -63,6 +63,8 @@ Check out our projects at ![https://fac21.github.io/projects-gallery/](https://f
 
 ![Styled Components](https://img.shields.io/badge/-StyledComponents-1572B6?style=flat&logo=styledcomponents&logoColor=white&link=/&labelColor=success&color=success)
 ![Next.js](https://img.shields.io/badge/-Next.js-1572B6?style=flat&logo=nextdotjs&logoColor=white&link=/&labelColor=success&color=success)
+![Svelte](https://img.shields.io/badge/-Svelte-1572B6?style=flat&logo=svelte&logoColor=white&link=/&labelColor=success&color=success)
+![Docker](https://img.shields.io/badge/-Docker-1572B6?style=flat&logo=docker&logoColor=white&link=/&labelColor=success&color=success)
 
 ---
 
