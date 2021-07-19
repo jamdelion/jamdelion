@@ -31,6 +31,10 @@ Check out our projects at ![https://fac21.github.io/projects-gallery/](https://f
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+<img style="margin: 10px" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" alt="NextJS" height="50" />
+<img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2Fstyled-components%2Fbrand%2Fmaster%2Fstyled-components.png&f=1&nofb=1" alt="StyledComponents" height="50" />
+<img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F574284%3Fv%3D3&f=1&nofb=1" alt="Robot" height="50" />
+<img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd2eip9sf3oo6c2.cloudfront.net%2Ftags%2Fimages%2F000%2F001%2F217%2Fthumb%2Fcypress.png&f=1&nofb=1" alt="Cypress" height="50" />
 </div>
 
 </td><td valign="top" width="33%">
@@ -40,29 +44,24 @@ Check out our projects at ![https://fac21.github.io/projects-gallery/](https://f
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flofrev.net%2Fwp-content%2Fphotos%2F2016%2F07%2Fdrupal_logo_2-896x1024.png&f=1&nofb=1" alt="Drupal" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="Github" height="50" /> 
+<img style="margin: 10px" src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" alt="Heroku" height="50" /> 
+<img style="margin: 10px" src="https://seeklogo.com/images/V/vercel-logo-11E85AE911-seeklogo.com.png" alt="Vercel" height="20" />
+<img style="margin: 10px" src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png" alt="Netlify" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--bp9HIjTK--%2Fc_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F77ripvyhwi6xl0gqkvj9.png&f=1&nofb=1" alt="Vite" height="50" />
+<img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F674621%2F71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png&f=1&nofb=1" alt="VSCode" height="50" />
 </div>
 
 </td></tr></table>  
-
-<!-- <br/>   -->
-<div align="center">
-<!-- #### Additionally... -->
-
-### 🧪 ![Cypress](https://img.shields.io/badge/-Cypress-1572B6?style=flat&logo=cypress&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet) ![Robot](https://img.shields.io/badge/-RobotFramework-1572B6?style=flat&logo=robotframework&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)
-
- ### 🚀 ![Netlify](https://img.shields.io/badge/-Netlify-1572B6?style=flat&logo=netlify&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet) ![Heroku](https://img.shields.io/badge/-Heroku-1572B6?style=flat&logo=heroku&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet) ![Vercel](https://img.shields.io/badge/-Vercel-1572B6?style=flat&logo=cercel&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)  
- ### 🛠️ ![Drupal](https://img.shields.io/badge/-Drupal-1572B6?style=flat&logo=drupal&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet) ![vite](https://img.shields.io/badge/-Vite-1572B6?style=flat&logo=vite&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet) ![VS Code](https://img.shields.io/badge/-VSCode-1572B6?style=flat&logo=visualstudiocode&logoColor=white&link=/&labelColor=blueviolet&color=blueviolet)
-
-</div>
 
 ---
 
 🌱 **I’m currently learning** ...
 
-![Styled Components](https://img.shields.io/badge/-StyledComponents-1572B6?style=flat&logo=styledcomponents&logoColor=white&link=/&labelColor=success&color=success)
-![Next.js](https://img.shields.io/badge/-Next.js-1572B6?style=flat&logo=nextdotjs&logoColor=white&link=/&labelColor=success&color=success)
+![TypeScript](https://img.shields.io/badge/-Typescript-1572B6?style=flat&logo=typescript&logoColor=white&link=/&labelColor=success&color=success)
 ![Svelte](https://img.shields.io/badge/-Svelte-1572B6?style=flat&logo=svelte&logoColor=white&link=/&labelColor=success&color=success)
 ![Docker](https://img.shields.io/badge/-Docker-1572B6?style=flat&logo=docker&logoColor=white&link=/&labelColor=success&color=success)
 
