@@ -53,6 +53,7 @@ Check out our projects at ![https://fac21.github.io/projects-gallery/](https://f
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
 <img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--bp9HIjTK--%2Fc_limit%252Cf_auto%252Cfl_progressive%252Cq_auto%252Cw_880%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F77ripvyhwi6xl0gqkvj9.png&f=1&nofb=1" alt="Vite" height="50" />
 <img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fuser-images.githubusercontent.com%2F674621%2F71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png&f=1&nofb=1" alt="VSCode" height="50" />
+<img style="margin: 10px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ze9fosnkillczclyibq2" alt="Supabase" height="50" />
 </div>
 
 </td></tr></table>  
