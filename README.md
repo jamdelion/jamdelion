@@ -5,9 +5,9 @@
 - **Jo Humphrey** (they/them)
   - *[click to hear my name](https://nmdrp.me/johumphrey)* 👂
 
-I'm currently working as co-course facilitator for the current full-time cohort of Founders and Coders (![@fac22](@www.github.com/fac22)), and also working part-time as a front-end developer at [Timetastic](https://www.github.com/timetastic). ⚡
+I'm currently working as a front-end developer at [Timetastic](https://www.github.com/timetastic). ⚡
 
-I graduated from [Founders and Coders](https://www.foundersandcoders.com) in June 2021, after starting my journey towards becoming a full-stack developer with a bunch of fantastic people (![@fac21](@www.github.com/fac21)) on the London-based peer-led course. After that, I worked as a freelance developer on ![@tech-for-better](https://github.com/tech-for-better/) projects. 
+I graduated from [Founders and Coders](https://www.foundersandcoders.com) in June 2021, after starting my journey towards becoming a full-stack developer with a bunch of fantastic people (![@fac21](@www.github.com/fac21)) on the London-based peer-led course. After that, I worked as a freelance developer on ![@tech-for-better](https://github.com/tech-for-better/) projects, and became co-course facilitator for the then full-time cohort of Founders and Coders (![@fac22](@www.github.com/fac22)). 
 
 
 Check out our projects at ![https://fac21.github.io/projects-gallery/](https://fac21.github.io/projects-gallery/). 🌟
