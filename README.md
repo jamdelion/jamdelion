@@ -62,14 +62,6 @@ Check out our projects at [https://fac21.github.io/projects-gallery/](https://fa
 
 ---
 
-🌱 **I’m currently learning** ...
-
-![TypeScript](https://img.shields.io/badge/-Typescript-1572B6?style=flat&logo=typescript&logoColor=white&link=/&labelColor=success&color=success)
-![Svelte](https://img.shields.io/badge/-Svelte-1572B6?style=flat&logo=svelte&logoColor=white&link=/&labelColor=success&color=success)
-![Docker](https://img.shields.io/badge/-Docker-1572B6?style=flat&logo=docker&logoColor=white&link=/&labelColor=success&color=success)
-
----
-
 💬 **I'm passionate about** ...
 * Improving access to tech careers :fist: 
 * Workers' and producers' [co-ops](https://www.uk.coop/) :honeybee: 
