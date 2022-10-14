@@ -5,12 +5,7 @@
 - **Jo Humphrey** (they/them)
   - *[click to hear my name](https://nmdrp.me/johumphrey)* 👂
 
-I'm currently working as a front-end developer at [Timetastic](https://www.github.com/timetastic). ⚡
-
-I graduated from [Founders and Coders](https://www.foundersandcoders.com) in June 2021, after starting my journey towards becoming a full-stack developer with a bunch of fantastic people ([@fac21](https://github.com/fac21)) on the London-based peer-led course. After that, I worked as a freelance developer on [@tech-for-better](https://github.com/tech-for-better/) projects, and became co-course facilitator for the then full-time cohort of Founders and Coders ([@fac22](https://github.com/fac22/)). 
-
-
-Check out our projects at [https://fac21.github.io/projects-gallery/](https://fac21.github.io/projects-gallery/). 🌟
+I'm currently working as a full-stack developer at [OakNorth](https://github.com/oaknorthbank/). ⚡
 
 ---
 
@@ -48,7 +43,6 @@ Check out our projects at [https://fac21.github.io/projects-gallery/](https://fa
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flofrev.net%2Fwp-content%2Fphotos%2F2016%2F07%2Fdrupal_logo_2-896x1024.png&f=1&nofb=1" alt="Drupal" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
-<img style="margin: 10px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2012/240/iconmonstr-github-1.png" alt="Github" height="50" /> 
 <img style="margin: 10px" src="https://seeklogo.com/images/H/heroku-logo-B774A78667-seeklogo.com.png" alt="Heroku" height="50" /> 
 <img style="margin: 10px" src="https://seeklogo.com/images/V/vercel-logo-11E85AE911-seeklogo.com.png" alt="Vercel" height="20" />
 <img style="margin: 10px" src="https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png" alt="Netlify" height="50" />
@@ -60,23 +54,6 @@ Check out our projects at [https://fac21.github.io/projects-gallery/](https://fa
 
 </td></tr></table>  
 
----
-
-💬 **I'm passionate about** ...
-* Improving access to tech careers :fist: 
-* Workers' and producers' [co-ops](https://www.uk.coop/) :honeybee: 
-* Non-profits, and social enterprises :green_heart:
-
-
-💬 **Also, I** ...
-
-* ...write a blog at [jo.hashnode.dev](https://jo.hashnode.dev) ✏️ 
-
-⚡ **Fun facts**
-* I started learning to rollerblade over lockdown in summer 2020. When I'm not coding, you can probably find me flailing on ramps at one of the local skateparks! 😅
-* My other main hobby is playing the drums in a 10-piece band, called [Colonel Spanky's Love Ensemble](https://colonelspankys.co.uk)! 🥁 🎵 🎸 🎺
-
-<br/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamdelion&hide_border=true&layout=compact" align="center" /></div>  
@@ -98,15 +75,6 @@ Check out our projects at [https://fac21.github.io/projects-gallery/](https://fa
   
 
 <br/>  
-
-
----
-
-<div align="center">
-  
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jamdelion.jamdelion) [![Repos Badge](https://badges.pufler.dev/repos/jamdelion)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/jamdelion)](https://badges.pufler.dev) [![Commits Badge](https://badges.pufler.dev/commits/monthly/jamdelion)](https://badges.pufler.dev)
-  
-</div>
 
 
 
