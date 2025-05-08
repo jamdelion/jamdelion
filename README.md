@@ -3,7 +3,6 @@
 ## Welcome to my Github! 
 
 - **Jo Humphrey** (they/them)
-  - *[click to hear my name](https://nmdrp.me/johumphrey)* 👂
 
 I'm currently working as a full-stack developer at [Open Systems Lab](https://github.com/theopensystemslab/). ⚡
 
