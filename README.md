@@ -4,7 +4,7 @@
 
 - **Jo Humphrey** (they/them)
 
-I'm currently working as a full-stack developer at [Open Systems Lab](https://github.com/theopensystemslab/). ⚡
+I'm currently working as a Software Engineer at [the Raspberry Pi Foundation](https://github.com/RaspberryPiFoundation). 🍓⚡
 
 ---
 
