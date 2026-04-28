@@ -4,7 +4,7 @@
 
 - **Jo Humphrey** (they/them)
 
-I'm currently working as a Software Engineer at [Raspberry Pi Foundation](https://github.com/RaspberryPiFoundation). 🍓⚡
+I'm currently working as a Senior Software Engineer at [Raspberry Pi Foundation](https://github.com/RaspberryPiFoundation). 🍓⚡
 
 ---
 
